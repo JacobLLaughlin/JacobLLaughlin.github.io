@@ -9,4 +9,4 @@ theme: jekyll-theme-minima
 # links to pages
 header_pages:
   - cv.md
-  - projects.md
+  - project_index.md
