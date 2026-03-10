@@ -1,5 +1,3 @@
-# JacobLLaughlin.github.io
-
 ---
 layout: home
 ---
