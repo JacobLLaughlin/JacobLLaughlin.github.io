@@ -1,5 +1,3 @@
-# page for publishing link to download cv
-
 ---
 layout: page
 title: CV
