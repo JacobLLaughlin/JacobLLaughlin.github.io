@@ -8,7 +8,7 @@ Here is a selection of my recent work. Click on any project title or image to se
 
 ---
 
-## [Example Project](/projects/example_project/)
+## [Example Project](projects/example_project/)
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 30px;">
   
