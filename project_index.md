@@ -14,7 +14,7 @@ Here is a selection of my recent work. Click on any project title or image to se
   
   <div style="flex-shrink: 0;">
     <a href="/projects/example_project/">
-      <img src="/assets/images/placeholder.gif" alt="funey_monkey" style="width: 250px; border-radius: 8px;">
+      <img src="/assets/images/placeholder.gif" alt="funey_monkey" style="width: 150px; border-radius: 8px;">
     </a>
   </div>
 
