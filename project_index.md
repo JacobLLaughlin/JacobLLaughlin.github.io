@@ -1,4 +1,3 @@
-# Directory Page for Project Pages
 ---
 layout: page
 title: Projects
