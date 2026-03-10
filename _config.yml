@@ -1,12 +1,9 @@
-title: Jacob L. Laughlin
-#author: 
-#logo:
-#description:
-show_downloads: false
+title: My Portfolio
+author: Your Name
+description: Welcome to my portfolio!
 
 theme: minima
 
-# links to pages
 header_pages:
   - cv.md
   - project_index.md
