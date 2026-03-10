@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /project_index/
 ---
 
 Here is a selection of my recent work. Click on any project title or image to see the full details, code, and videos!
@@ -14,7 +14,7 @@ Here is a selection of my recent work. Click on any project title or image to se
   
   <div style="flex-shrink: 0;">
     <a href="/projects/example_project/">
-      <img src="/assets/images/placeholder.gif" alt="funey_monkey" style="width: 1px; border-radius: 8px;">
+      <img src="/assets/images/placeholder.gif" alt="funey_monkey" style="width: 100px; border-radius: 8px;">
     </a>
   </div>
 
